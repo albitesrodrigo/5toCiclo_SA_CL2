@@ -1,0 +1,44 @@
+<cibertec>
+<usuario>
+	<codigo>10</codigo>
+	<nomusu>cibertec2023</nomusu>
+	<clave>13579peru</clave>
+	<email>peru2022@gmail.com</email>
+</usuario>
+<usuario>
+	<codigo>20</codigo>
+	<nomusu>admin2022</nomusu>
+	<clave>123456</clave>
+	<email>admin@hotmail.com</email>
+</usuario>
+<usuario>
+	<codigo>30</codigo>
+	<nomusu>limacentro2023</nomusu>
+	<clave>123456</clave>
+	<email>limacentro@hotmail.com</email>
+</usuario>
+<usuario>
+	<codigo>40</codigo>
+	<nomusu>independencia2023</nomusu>
+	<clave>123456</clave>
+	<email>independencia@gmail.com</email>
+</usuario>
+<usuario>
+	<codigo>50</codigo>
+	<nomusu>bellavista</nomusu>
+	<clave>123456</clave>
+	<email>bellavista@hotmail.com</email>
+</usuario>
+<usuario>
+	<codigo>60</codigo>
+	<nomusu>trujillo2023</nomusu>
+	<clave>123456</clave>
+	<email>trujillo@gmail.com</email>
+</usuario>
+<usuario>
+	<codigo>70</codigo>
+	<nomusu>miraflores2023</nomusu>
+	<clave>123456</clave>
+	<email>miraflores@hotmail.com</email>
+</usuario>
+</cibertec>
